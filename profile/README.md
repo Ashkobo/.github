@@ -8,10 +8,10 @@
 
 Offline MCP servers that teach AI agents how things work in Japan.
 
-- [**japan-mcp**](https://github.com/ashkobo/japan-mcp) — Give your AI agent a Japanese calendar: holidays, business days and 和暦.
-- [**japan-postal-mcp**](https://github.com/ashkobo/japan-postal-mcp) — Postal codes (郵便番号): code → address and address → code.
-- [**japan-bank-mcp**](https://github.com/ashkobo/japan-bank-mcp) — Bank and branch codes, and account names in 全銀 kana for transfers.
-- [**japan-invoice-mcp**](https://github.com/ashkobo/japan-invoice-mcp) — Invoices: registration numbers, consumption tax per rate and 源泉徴収.
+- **japan-mcp** — Give your AI agent a Japanese calendar: holidays, business days and 和暦.
+- **japan-postal-mcp** — Postal codes (郵便番号): code → address and address → code.
+- **japan-bank-mcp** — Bank and branch codes, and account names in 全銀 kana for transfers.
+- **japan-invoice-mcp** — Invoices: registration numbers, consumption tax per rate and 源泉徴収.
 
 ### Currently
 
